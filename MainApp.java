@@ -7,7 +7,7 @@ import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
 public class MainApp {
-	private static String URL = "http://www.jobkorea.co.kr/Search/?";
+	private static String URL = /*put url wherever u want*/";
 	
 	public static void main(String[] args) throws IOException {
 		String KEY_WORD = "IT";
